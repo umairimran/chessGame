@@ -34,7 +34,7 @@ This project is used by the following companies:
 
 
 ## Features ❄️ 
-
+- Has Loading / Saving Features Allowing user to retrieve their data.
 - Sounds Effects
 - Impressive Game UI
 - Full Screen Mode
