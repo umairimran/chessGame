@@ -1,5 +1,5 @@
 
-# Chess Game Using c++ in visual studio.❄️❄️
+# Chess Game Using c++ in visual studio. 💎 💎 
 
 "Crafted in C++, this chess game features a polished interface and comprehensive functionality without relying on object-oriented programming. The codebase leverages efficient algorithms for move generation, chess logic, and graphical rendering, resulting in a high-quality, non-OOP chess experience with a minimalist design and optimal performance. Made in semester 1"
 
